@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Directories\Directories\bin\Debug\Directories.exe.config
+C:\Users\Admin\source\repos\Directories\Directories\bin\Debug\Directories.exe
+C:\Users\Admin\source\repos\Directories\Directories\bin\Debug\Directories.pdb
+C:\Users\Admin\source\repos\Directories\Directories\obj\Debug\Directories.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Directories\Directories\obj\Debug\Directories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Directories\Directories\obj\Debug\Directories.exe
+C:\Users\Admin\source\repos\Directories\Directories\obj\Debug\Directories.pdb
